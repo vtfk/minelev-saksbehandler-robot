@@ -1,0 +1,56 @@
+{
+  "name": "minelev-saksbehandler-robot",
+  "description": "Prepares documents for archive",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "author": {
+    "name": "Geir Gåsodden",
+    "email": "geir.gasodden@pythonia.no",
+    "url": "https://github.com/zrrrzzt"
+  },
+  "contributors": [
+    {
+      "name": "Jonas Enge",
+      "email": "jonas.enge@gmail.com",
+      "url": "https://github.com/maccyber"
+    }
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=7.9.0"
+  },
+  "scripts": {
+    "test": "standard && nsp check && ava",
+    "test-offline": "standard && ava",
+    "coverage": "nyc ava",
+    "coveralls": "nyc ava && nyc report --reporter=lcov && cat coverage/lcov.info | coveralls",
+    "standard-fix": "standard --fix",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "tfk",
+    "Telemark fylkeskommune",
+    "Saksbehandling",
+    "MinElev"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/telemark/minelev-saksbehandler-robot"
+  },
+  "bugs": {
+    "url": "https://github.com/telemark/minelev-saksbehandler-robot/issues"
+  },
+  "homepage": "https://github.com/telemark/minelev-saksbehandler-robot",
+  "devDependencies": {
+    "ava": "0.19.1",
+    "coveralls": "2.13.0",
+    "nsp": "2.6.3",
+    "nyc": "10.2.0",
+    "standard": "10.0.2"
+  },
+  "dependencies": {
+    "winston": "2.3.1",
+    "winston-papertrail": "1.0.4"
+  }
+}
