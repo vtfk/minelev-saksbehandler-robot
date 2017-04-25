@@ -50,6 +50,8 @@
     "standard": "10.0.2"
   },
   "dependencies": {
+    "birthdate-from-id": "1.0.12",
+    "get-age": "1.0.1",
     "winston": "2.3.1",
     "winston-papertrail": "1.0.4"
   }
