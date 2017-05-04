@@ -5,6 +5,9 @@
   "studentName": "Gilbert Grupp Grape",
   "userName": "Sylthe Lab",
   "documentType": "samtale",
+  "documentCategory": "fag",
   "schoolName": "Kragerø videregående skole",
-  "schoolOrganizationNumber": "974568004"
+  "schoolOrganizationNumber": "974568004",
+  "period": "Standpunktkarakter",
+  "studentMainGroupName": "KRAVS:3PB"
 }
