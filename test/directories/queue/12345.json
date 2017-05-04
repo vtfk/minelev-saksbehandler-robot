@@ -2,5 +2,9 @@
   "_id": 12345,
   "studentId": "04060312345",
   "studentUserName": "GilbertGrape",
-  "documentType": "samtale"
+  "studentName": "Gilbert Grupp Grape",
+  "userName": "Sylthe Lab",
+  "documentType": "samtale",
+  "schoolName": "Kragerø videregående skole",
+  "schoolOrganizationNumber": "974568004"
 }
