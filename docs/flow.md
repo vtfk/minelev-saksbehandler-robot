@@ -11,6 +11,8 @@
 - Gjør oppslag mot sak/arkiv
 - Setter opp nødvendige dokumentmaler
 - Genererer dokumenter
+- Lagrer jobb i distribusjonsmappen
+- Lagrer jobb i arkiveringsmappen
 - Lagrer jobb i done-mappen hvis ingen feil har oppstått
 - Lagrer jobb i feilmappen dersom feil har oppstått
 - Sletter genererte dokumenter dersom feil har skjedd
