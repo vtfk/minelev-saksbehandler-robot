@@ -1,14 +1,13 @@
 {
-  "_id": 12345,
-  "studentId": "01010750160",
-  "studentUserName": "TopTom",
-  "studentName": "Tomas Topstad",
+  "_id": 67890,
+  "studentId": "01018000217",
+  "studentUserName": "IsaSor",
+  "studentName": "Isabelle Sørby",
   "userName": "Sylthe Lab",
   "documentType": "samtale",
   "documentCategory": "samtale",
   "schoolName": "Kragerø videregående skole",
   "schoolOrganizationNumber": "974568004",
   "period": "2016/2017",
-  "studentMainGroupName": "KRAVS:3PB",
-  "samtaleCategories": "Eleven ønsker ikke samtale"
+  "studentMainGroupName": "KRAVS:3PB"
 }
