@@ -1,0 +1,46 @@
+[
+  {
+    "FODT":"090457",
+    "PERS":"54321",
+    "INR": "12345678901",
+    "FODTAR":"1957",
+    "STAT-KD":"1",
+    "STAT":"BOSATT",
+    "NAVN-S":"BLÅ",
+    "NAVN-F":"ELMA LOUISE",
+    "NAVN-M":{
+
+    },
+    "NAVN":"BLÅ ELMA LOUISE",
+    "ADR":"KONGLESTIEN 132",
+    "POSTN":"3714",
+    "POSTS":"SKIEN",
+    "KOMNR":"0806",
+    "KOMNA":"SKIEN",
+    "ADRTYPE":"O",
+    "SPES-KD":"0",
+    "SPES":"VANLIG BOSATT"
+  },
+  {
+    "FODT":"230457",
+    "PERS":"98765",
+    "INR": "10987654321",
+    "FODTAR":"1957",
+    "STAT-KD":"1",
+    "STAT":"BOSATT",
+    "NAVN-S":"GRÅ",
+    "NAVN-F":"GUNNAR",
+    "NAVN-M":{
+
+    },
+    "NAVN":"GRÅ GUNNAR",
+    "ADR":"SNOKERSTREDET 5",
+    "POSTN":"3912",
+    "POSTS":"PORSGRUNN",
+    "KOMNR":"0805",
+    "KOMNA":"PORSGRUNN",
+    "ADRTYPE":"O",
+    "SPES-KD":"0",
+    "SPES":"VANLIG BOSATT"
+  }
+]
