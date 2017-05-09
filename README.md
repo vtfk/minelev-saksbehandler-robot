@@ -6,6 +6,11 @@
 
 Saksbehandlerrobot for MinElev
 
+## Beskrivelse av regelsett
+
+- [Flyt](docs/flow.md)
+- [Distribusjon](docs/distribution.md)
+
 ## License
 
 [MIT](LICENSE)
