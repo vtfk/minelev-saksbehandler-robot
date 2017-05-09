@@ -1,0 +1,72 @@
+{
+  "RESULT":{
+    "HOV":{
+      "FODT":"261103",
+      "PERS":"12345",
+      "FODTAR":"1986",
+      "STAT-KD":"1",
+      "STAT":"BOSATT",
+      "NAVN-S":"GRÅ",
+      "NAVN-F":"GANDALF",
+      "NAVN-M":"GÜNTHER",
+      "NAVN":"GRÅ GANDALF GÜNTHER",
+      "ADR":"GRUBLEKOLLEN 18 A",
+      "POSTN":"3912",
+      "POSTS":"PORSGRUNN",
+      "KOMNR":"0805",
+      "KOMNA":"PORSGRUNN",
+      "ADRTYPE":"O",
+      "SPES-KD":"0",
+      "SPES":"VANLIG BOSATT",
+      "FORAN-KD": "M",
+      "MOR-INR": "12345678901",
+      "FAR-INR": "10987654321"
+    },
+    "FOR":[
+      {
+        "FODT":"090457",
+        "PERS":"54321",
+        "INR": "12345678901",
+        "FODTAR":"1957",
+        "STAT-KD":"1",
+        "STAT":"BOSATT",
+        "NAVN-S":"BLÅ",
+        "NAVN-F":"ELMA LOUISE",
+        "NAVN-M":{
+
+        },
+        "NAVN":"BLÅ ELMA LOUISE",
+        "ADR":"KONGLESTIEN 132",
+        "POSTN":"3714",
+        "POSTS":"SKIEN",
+        "KOMNR":"0806",
+        "KOMNA":"SKIEN",
+        "ADRTYPE":"O",
+        "SPES-KD":"0",
+        "SPES":"VANLIG BOSATT"
+      },
+      {
+        "FODT":"230457",
+        "PERS":"98765",
+        "INR": "10987654321",
+        "FODTAR":"1957",
+        "STAT-KD":"1",
+        "STAT":"BOSATT",
+        "NAVN-S":"GRÅ",
+        "NAVN-F":"GUNNAR",
+        "NAVN-M":{
+
+        },
+        "NAVN":"GRÅ GUNNAR",
+        "ADR":"KONGLESTIEN 132",
+        "POSTN":"3714",
+        "POSTS":"SKIEN",
+        "KOMNR":"0806",
+        "KOMNA":"SKIEN",
+        "ADRTYPE":"O",
+        "SPES-KD":"0",
+        "SPES":"VANLIG BOSATT"
+      }
+    ]
+  }
+}

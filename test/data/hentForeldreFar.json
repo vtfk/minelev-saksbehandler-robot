@@ -1,7 +1,7 @@
 {
   "RESULT":{
     "HOV":{
-      "FODT":"261186",
+      "FODT":"261103",
       "PERS":"12345",
       "FODTAR":"1986",
       "STAT-KD":"1",
@@ -17,12 +17,16 @@
       "KOMNA":"PORSGRUNN",
       "ADRTYPE":"O",
       "SPES-KD":"0",
-      "SPES":"VANLIG BOSATT"
+      "SPES":"VANLIG BOSATT",
+      "FORAN-KD": "F",
+      "MOR-INR": "12345678901",
+      "FAR-INR": "10987654321"
     },
     "FOR":[
       {
         "FODT":"090457",
         "PERS":"54321",
+        "INR": "12345678901",
         "FODTAR":"1957",
         "STAT-KD":"1",
         "STAT":"BOSATT",
@@ -44,6 +48,7 @@
       {
         "FODT":"230457",
         "PERS":"98765",
+        "INR": "10987654321",
         "FODTAR":"1957",
         "STAT-KD":"1",
         "STAT":"BOSATT",
