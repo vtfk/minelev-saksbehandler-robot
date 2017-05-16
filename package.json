@@ -53,6 +53,7 @@
     "axios": "0.16.1",
     "birthdate-from-id": "1.0.12",
     "capitalize": "1.0.0",
+    "elev-varsel-generate-document-title": "2.0.0",
     "generate-docx": "1.3.0",
     "get-age": "1.0.1",
     "get-skole-aar": "1.0.0",
