@@ -10,6 +10,9 @@ module.exports = {
   QUEUE_DIRECTORY_PATH: process.env.QUEUE_DIRECTORY_PATH || 'test/directories/queue',
   JWT_SECRET: process.env.JWT_SECRET || 'Louie Louie, oh no, I got to go Louie Louie, oh no, I got to go',
   DSF_SERVICE_URL: process.env.DSF_SERVICE_URL || 'https://dsf.micro.tjeneste.win',
+  P360_USER: process.env.P360_USER || 'http://tfk-fh-siweb01.login.top.no:8088/SI.WS.Core/SIF/',
+  P360_PASSWORD: process.env.P360_PASSWORD || 'domain/username',
+  P360_URL: process.env.P360_URL || 'password',
   PAPERTRAIL_HOSTNAME: process.env.PAPERTRAIL_HOSTNAME || 'minelev-robot',
   PAPERTRAIL_HOST: process.env.PAPERTRAIL_HOST || 'logs.papertrailapp.com',
   PAPERTRAIL_PORT: process.env.PAPERTRAIL_PORT || 12345
