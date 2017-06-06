@@ -50,7 +50,7 @@
     "standard": "10.0.2"
   },
   "dependencies": {
-    "axios": "0.16.1",
+    "axios": "0.16.2",
     "birthdate-from-id": "1.0.12",
     "capitalize": "1.0.0",
     "elev-varsel-generate-document-title": "2.0.0",
