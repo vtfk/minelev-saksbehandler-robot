@@ -1,5 +1,7 @@
 'use strict'
 
+process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0'
+
 module.exports = {
   ARCIVE_DIRECTORY_PATH: process.env.ARCIVE_DIRECTORY_PATH || 'test/directories/archive',
   CALLBACK_DIRECTORY_PATH: process.env.CALLBACK_DIRECTORY_PATH || 'test/directories/callback',
