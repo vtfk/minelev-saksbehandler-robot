@@ -1,7 +1,7 @@
 {
   "name": "minelev-saksbehandler-robot",
   "description": "Prepares documents for archive",
-  "version": "1.6.6",
+  "version": "1.6.7",
   "license": "MIT",
   "private": true,
   "author": {
@@ -21,8 +21,8 @@
     "node": ">=8.6.0"
   },
   "scripts": {
-    "test": "standard && nsp check && ava",
-    "test-offline": "standard && ava",
+    "test": "standard && ava",
+    "test-offline": "standard && nsp check && ava",
     "coverage": "nyc ava",
     "coveralls": "nyc ava && nyc report --reporter=lcov && cat coverage/lcov.info | coveralls",
     "standard-fix": "standard --fix",
