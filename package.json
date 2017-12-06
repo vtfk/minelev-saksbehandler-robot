@@ -18,7 +18,7 @@
   ],
   "main": "index.js",
   "engines": {
-    "node": ">=8.6.0"
+    "node": ">=8.9.1"
   },
   "scripts": {
     "test": "standard && ava",
@@ -36,12 +36,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/telemark/minelev-saksbehandler-robot"
+    "url": "git+https://github.com/telemark/minelev-saksbehandler-robot"
   },
   "bugs": {
     "url": "https://github.com/telemark/minelev-saksbehandler-robot/issues"
   },
-  "homepage": "https://github.com/telemark/minelev-saksbehandler-robot",
+  "homepage": "https://github.com/telemark/minelev-saksbehandler-robot#readme",
   "devDependencies": {
     "ava": "0.24.0",
     "coveralls": "3.0.0",
