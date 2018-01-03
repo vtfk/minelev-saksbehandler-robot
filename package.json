@@ -21,8 +21,8 @@
     "node": ">=8.9.3"
   },
   "scripts": {
-    "test": "standard && ava",
     "test-offline": "standard && nsp check && ava",
+    "test": "standard && ava",
     "coverage": "nyc ava",
     "coveralls": "nyc ava && nyc report --reporter=lcov && cat coverage/lcov.info | coveralls",
     "standard-fix": "standard --fix",
