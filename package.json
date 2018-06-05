@@ -60,7 +60,7 @@
     "get-age": "1.0.1",
     "get-skole-aar": "1.0.0",
     "is-valid-fodselsnummer": "3.0.1",
-    "jsonwebtoken": "8.2.1",
+    "jsonwebtoken": "8.2.2",
     "minelev-tilbakemelding-nynorsk": "1.0.1",
     "p360": "3.1.1",
     "sanitize-filename": "1.6.1",
