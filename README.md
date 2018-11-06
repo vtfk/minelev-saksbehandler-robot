@@ -13,5 +13,3 @@ Saksbehandlerrobot for MinElev
 ## License
 
 [MIT](LICENSE)
-
-![Robohash image of minelev-saksbehandler-robot](https://robots.kebabstudios.party/minelev-saksbehandler-robot.png "Robohash image of minelev-saksbehandler-robot")
