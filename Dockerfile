@@ -9,7 +9,7 @@ RUN apk add --update --no-cache git
 COPY . /src
 
 # Change working directory
-WORKDIR "/src"
+WORKDIR /src
 
 # Install dependencies
 RUN npm install --production
