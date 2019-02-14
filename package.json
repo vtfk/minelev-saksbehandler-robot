@@ -58,7 +58,7 @@
     "generate-docx": "2.1.1",
     "get-age": "1.0.1",
     "get-skole-aar": "2.0.0",
-    "is-valid-fodselsnummer": "3.0.2",
+    "is-valid-fodselsnummer": "3.0.3",
     "jsonwebtoken": "8.4.0",
     "minelev-tilbakemelding-nynorsk": "1.0.2",
     "p360": "3.1.3",
