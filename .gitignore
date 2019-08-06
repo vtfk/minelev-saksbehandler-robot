@@ -1,5 +1,6 @@
 # IDE
 .idea
+.vs
 .vscode
 
 # Mac OS
@@ -44,7 +45,6 @@ jspm_packages
 .node_repl_history
 
 # Lock file
-package-lock.json
 yarn.lock
 
 # env
