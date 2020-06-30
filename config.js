@@ -11,7 +11,7 @@ module.exports = {
   ERRORS_DIRECTORY_PATH: process.env.ERRORS_DIRECTORY_PATH || 'test/directories/errors',
   NOTIFICATIONS_DIRECTORY_PATH: process.env.NOTIFICATIONS_DIRECTORY_PATH || 'test/directories/notifications',
   NOTIFICATIONS_SERVICE_URL: process.env.NOTIFICATIONS_SERVICE_URL || 'https://echo.mikrotjeneste.win/warnings',
-  YFF_NOTIFICATIONS_SERVICE_URL: process.env.YFF_NOTIFICATIONS_SERVICE_URL || 'https://mikrotjeneste.win/yff',
+  YFF_NOTIFICATIONS_SERVICE_URL: process.env.YFF_NOTIFICATIONS_SERVICE_URL || 'https://echo.mikrotjeneste.win/yff',
   QUEUE_DIRECTORY_PATH: process.env.QUEUE_DIRECTORY_PATH || 'test/directories/queue',
   JWT_SECRET: process.env.JWT_SECRET || 'Louie Louie, oh no, I got to go Louie Louie, oh no, I got to go',
   DISTRIBUTION_CODE: process.env.DISTRIBUTION_CODE || '1111',
