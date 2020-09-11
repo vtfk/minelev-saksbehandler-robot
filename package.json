@@ -50,7 +50,7 @@
     "standard": "14.3.4"
   },
   "dependencies": {
-    "axios": "0.19.2",
+    "axios": "0.20.0",
     "birthdate-from-id": "2.0.0",
     "capitalize": "2.0.3",
     "document-templates": "1.4.11",
