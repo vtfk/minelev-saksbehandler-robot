@@ -50,6 +50,7 @@
     "standard": "16.0.1"
   },
   "dependencies": {
+    "@vtfk/logger": "2.4.1",
     "axios": "0.21.0",
     "birthdate-from-id": "2.0.2",
     "capitalize": "2.0.3",
@@ -70,8 +71,6 @@
     "tfk-generate-svarut-title": "1.2.1",
     "tfk-is-hemmelig-adresse": "3.0.1",
     "uuid": "8.3.1",
-    "vtfk-schools-info": "1.1.2",
-    "winston": "2.4.5",
-    "winston-papertrail": "1.0.5"
+    "vtfk-schools-info": "1.1.2"
   }
 }

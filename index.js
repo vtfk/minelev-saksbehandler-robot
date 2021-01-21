@@ -1,7 +1,7 @@
 const getNextJobFromQueue = require('./lib/steps/get-next-job-from-queue')
 const getFileData = require('./lib/steps/get-file-data')
 const decideFlow = require('./lib/steps/decide-flow')
-const logger = require('./lib/logger')
+const logger = require('@vtfk/logger')
 
 logger('info', ['index', 'start'])
 
