@@ -1,5 +1,6 @@
 const getNextJobFromQueue = require('./lib/steps/get-next-job-from-queue')
 const getFileData = require('./lib/steps/get-file-data')
+const decryptData = require('./lib/steps/decrypt-data')
 const decideFlow = require('./lib/steps/decide-flow')
 const  { logger } = require('@vtfk/logger')
 
@@ -7,6 +8,7 @@ logger('info', ['index', 'start'])
 
 getNextJobFromQueue()
   .then(getFileData)
+  .then(decryptData)
   .then(decideFlow)
   .then(data => {
     logger('info', ['index', data._id, 'finished'])
