@@ -52,6 +52,7 @@
   "dependencies": {
     "@vtfk/encryption": "1.0.0",
     "@vtfk/logger": "2.4.1",
+    "@vtfk/minelev-document-converter": "1.1.0",
     "axios": "0.21.0",
     "birthdate-from-id": "2.0.2",
     "capitalize": "2.0.3",
