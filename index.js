@@ -3,7 +3,7 @@ const getFileData = require('./lib/steps/get-file-data')
 const decryptData = require('./lib/steps/decrypt-data')
 const convertData = require('./lib/steps/convert-document')
 const decideFlow = require('./lib/steps/decide-flow')
-const  { logger } = require('@vtfk/logger')
+const { logger } = require('@vtfk/logger')
 
 logger('info', ['index', 'start'])
 
