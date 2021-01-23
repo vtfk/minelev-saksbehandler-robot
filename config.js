@@ -17,7 +17,7 @@ module.exports = {
   DISTRIBUTION_CODE: process.env.DISTRIBUTION_CODE || '1111',
   DISTRIBUTION_LETTER_TYPE: process.env.DISTRIBUTION_LETTER_TYPE || 'BPOST',
   DSF_SERVICE_URL: process.env.DSF_SERVICE_URL || 'https://dsf.micro.tjeneste.win',
-  DOCUMENT_GENERATER_URL: process.env.DOCUMENT_GENERATER_URL || 'https://api.vtfk.dev/pdf/generate',
+  DOCUMENT_GENERATOR_URL: process.env.DOCUMENT_GENERATOR_URL || 'https://api.vtfk.dev/pdf/generate',
   P360_URL: process.env.P360_URL || 'http://tfk-fh-siweb01t.login.top.no:8088/SI.WS.Core/SIF/',
   P360_USER: process.env.P360_USER || 'domain/username',
   P360_PASSWORD: process.env.P360_PASSWORD || 'password',
