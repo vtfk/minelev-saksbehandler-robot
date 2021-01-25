@@ -13,7 +13,7 @@ getNextJobFromQueue()
   .then(convertData)
   .then(decideFlow)
   .then(data => {
-    logger('info', ['index', data._id, 'finished'])
+    logger('info', ['index', 'finished'])
     process.exit(0)
   })
   .catch(error => {
