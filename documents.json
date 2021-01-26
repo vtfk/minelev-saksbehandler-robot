@@ -1,0 +1,61 @@
+{
+  "varsel": {
+    "fag": {
+      "archive": {
+        "title": "Varsel - fag - {student.name} - {school.name}",
+        "unofficialTitle": "Varsel - fag - {school.name}",
+        "accessCode": "13",
+        "accessGroup": "{school.accessGroup}",
+        "signOff": false,
+        "documentCreated": "{created.timestamp}",
+        "category": "Dokument ut",
+        "paragraph": "Offl. § 13 jf. fvl. § 13 (1) nr.1",
+        "archive": "Saksdokument",
+        "status": "J",
+        "responsibleEnterpriseNumber": "{school.organizationNumber360}",
+        "responsiblePersonRecno": "VTFK_ROBOT_RESPONSIBLE",
+        "contacts": [
+          {
+            "IsUnofficial": true,
+            "ReferenceNumber": "{schoolInfo.organizationNumber360}",
+            "Role": "Avsender"
+          }
+        ],
+        "file": {
+          "title": "varsel-fag.pdf",
+          "data": "{fileData}"
+        }
+      },
+      "distribution": {
+
+      }
+    },
+    "orden": {
+      "archive": {
+
+      },
+      "distribution": {
+
+      }
+    },
+    "atferd": {
+
+    }
+  },
+  "samtale": {
+    "samtale": {
+      "archive": {
+
+      },
+      "distribution": false
+    },
+    "ikke-samtale": {
+      "archive": {
+
+      },
+      "distribution": {
+
+      }
+    }
+  }
+}
