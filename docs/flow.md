@@ -3,6 +3,8 @@
 - Sjekker om det ligger jobb i kø-mappen
     - Hvis ikke: avslutter roboten
 - Henter jobb og data
+- Dekrypterer content dersom det er kryptert
+- Konverterer nytt format til gammelt format
 - Lagrer jobb i notifications-mappen dersom jobben ikke er dokumentasjon av elevsamtale
 - Setter opp data-objektet for videre flyt
 - Setter opp dokumentet som skal genereres

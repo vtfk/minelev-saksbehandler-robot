@@ -17,12 +17,15 @@ module.exports = {
   DISTRIBUTION_CODE: process.env.DISTRIBUTION_CODE || '1111',
   DISTRIBUTION_LETTER_TYPE: process.env.DISTRIBUTION_LETTER_TYPE || 'BPOST',
   DSF_SERVICE_URL: process.env.DSF_SERVICE_URL || 'https://dsf.micro.tjeneste.win',
-  P360_URL: process.env.P360_URL || 'http://tfk-fh-siweb01t.login.top.no:8088/SI.WS.Core/SIF/',
-  P360_USER: process.env.P360_USER || 'domain/username',
-  P360_PASSWORD: process.env.P360_PASSWORD || 'password',
+  DOCUMENT_GENERATOR_URL: process.env.DOCUMENT_GENERATOR_URL || 'https://api.vtfk.dev/pdf/generate',
+  KRR_URL: process.env.KRR_URL || 'https://api.vtfk.dev/krr/lookup',
+  KRR_JWT_SECRET: process.env.KRR_JWT_SECRET || 'Secret secret',
+  P360_URL: process.env.P360_URL || '',
+  P360_TOKEN: process.env.P360_TOKEN || '',
   P360_DEFAULT_RESPONSIBLE_PERSON: process.env.P360_DEFAULT_RESPONSIBLE_PERSON || '200326',
   P360_DEFAULT_RESPONSIBLE_ENTERPRISE: process.env.P360_DEFAULT_RESPONSIBLE_ENTERPRISE || '506',
   PAPERTRAIL_HOSTNAME: process.env.PAPERTRAIL_HOSTNAME || 'minelev-robot',
   PAPERTRAIL_HOST: process.env.PAPERTRAIL_HOST || 'logs.papertrailapp.com',
-  PAPERTRAIL_PORT: process.env.PAPERTRAIL_PORT || 12345
+  PAPERTRAIL_PORT: process.env.PAPERTRAIL_PORT || 12345,
+  ENCRYPTION_KEY: process.env.ENCRYPTION_KEY || 'Super secret secret'
 }
