@@ -18,6 +18,8 @@ module.exports = {
   DISTRIBUTION_LETTER_TYPE: process.env.DISTRIBUTION_LETTER_TYPE || 'BPOST',
   DSF_SERVICE_URL: process.env.DSF_SERVICE_URL || 'https://dsf.micro.tjeneste.win',
   DOCUMENT_GENERATOR_URL: process.env.DOCUMENT_GENERATOR_URL || 'https://api.vtfk.dev/pdf/generate',
+  KRR_URL: process.env.KRR_URL || 'https://api.vtfk.dev/krr/lookup',
+  KRR_JWT_SECRET: process.env.KRR_JWT_SECRET || 'Secret secret',
   P360_URL: process.env.P360_URL || '',
   P360_TOKEN: process.env.P360_TOKEN || '',
   P360_DEFAULT_RESPONSIBLE_PERSON: process.env.P360_DEFAULT_RESPONSIBLE_PERSON || '200326',
