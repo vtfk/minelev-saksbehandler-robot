@@ -12,7 +12,7 @@
 ### Unntak
 
 #### Hemmelig adresse
-- Dersom eleven bor på hemmelig adresse sendes det notat med oppfølging til skolen eleven tilhører med beskjed om at varselbrevet på distribueres på annen måte.
+- Dersom eleven bor på hemmelig adresse sendes det notat med oppfølging til skolen eleven tilhører med beskjed om at varselbrevet må distribueres på annen måte.
 - Dersom en av foreldrene bor på hemmelig adresses sendes det notat med oppfølging til skolen hvor eleven går.
 
 #### Ulik adresse
