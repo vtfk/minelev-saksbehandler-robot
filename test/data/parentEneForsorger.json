@@ -1,0 +1,24 @@
+[
+  {
+    "FODT":"090457",
+    "PERS":"54321",
+    "INR": "12345678901",
+    "FODTAR":"1957",
+    "STAT-KD":"1",
+    "STAT":"BOSATT",
+    "NAVN-S":"BLÅ",
+    "NAVN-F":"ELMA LOUISE",
+    "NAVN-M":{
+
+    },
+    "NAVN":"BLÅ ELMA LOUISE",
+    "ADR":"KONGLESTIEN 132",
+    "POSTN":"3714",
+    "POSTS":"SKIEN",
+    "KOMNR":"0806",
+    "KOMNA":"SKIEN",
+    "ADRTYPE":"O",
+    "SPES-KD":"0",
+    "SPES":"VANLIG BOSATT"
+  }
+]
