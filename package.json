@@ -14,6 +14,11 @@
       "name": "Jonas Enge",
       "email": "jonas.enge@gmail.com",
       "url": "https://github.com/maccyber"
+    },
+    {
+      "name": "Rune Moskvil Lyngås",
+      "email": "rune.moskvil.lyngaas@vtfk.no",
+      "url": "https://github.com/runely"
     }
   ],
   "main": "index.js",
@@ -30,8 +35,8 @@
     "refresh": "rm -rf node_modules && rm package-lock.json && npm install"
   },
   "keywords": [
-    "tfk",
-    "Telemark fylkeskommune",
+    "vtfk",
+    "Vestfold og Telemark fylkeskommune",
     "Saksbehandling",
     "MinElev"
   ],
