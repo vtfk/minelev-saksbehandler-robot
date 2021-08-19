@@ -53,7 +53,7 @@
     "@vtfk/elev-varsel-generate-document-title": "2.3.5",
     "@vtfk/encryption": "1.0.0",
     "@vtfk/logger": "2.5.2",
-    "@vtfk/minelev-document-converter": "1.1.7",
+    "@vtfk/minelev-document-converter": "2.0.0",
     "@vtfk/p360": "1.1.2",
     "axios": "0.21.1",
     "birthdate-from-id": "2.0.2",
