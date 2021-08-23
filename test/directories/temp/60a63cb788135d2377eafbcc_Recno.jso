@@ -1,0 +1,281 @@
+{
+  "_id": "60a63cb788135d2377eafbcc",
+  "created": {
+    "timestamp": 1621507255256,
+    "createdBy": "bjo21051"
+  },
+  "modified": [
+    {
+      "timestamp": 1621507255256,
+      "modifiedBy": "bjo21051"
+    }
+  ],
+  "type": "yff",
+  "variant": "laereplan",
+  "student": {
+    "username": "fat0609",
+    "name": "Fatima Imad Zaqrit",
+    "firstName": "Fatima Imad",
+    "lastName": "Zaqrit",
+    "personalIdNumber": "06090380271",
+    "mobile": 4797367930,
+    "mail": "fat0609@skole.vtfk.no",
+    "classId": "SKOVS:1HOH",
+    "level": "VG1"
+  },
+  "content": {
+    "utplasseringer": [
+      {
+        "id": "974568152",
+        "name": "Skogmo videregående skole",
+        "maal": [
+          {
+            "grep": {
+              "kode": "K3904",
+              "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K3904",
+              "tittel": {
+                "nb": "veilede kunder i valg og bruk av apotekvarer ",
+                "nn": "veilede kunder i valg og bruk av apotekvarer ",
+                "en": "veilede kunder i valg og bruk av apotekvarer "
+              }
+            },
+            "programomraade": {
+              "kode": "HSAPO3----",
+              "url-data": "https://data.udir.no/kl06/v201906/programomraader/HSAPO3----",
+              "tittel": {
+                "nb": "Apotekteknikk",
+                "nn": "Apotekteknikk",
+                "en": "Pharmacy Skills"
+              },
+              "opplaeringssted": [
+                "http://psi.udir.no/kl06/opplaeringssted_skole"
+              ]
+            },
+            "arbeidsoppgaver": ""
+          },
+          {
+            "grep": {
+              "kode": "K3927",
+              "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K3927",
+              "tittel": {
+                "nb": "framstille kremer, salver og flytende legemidler og dosere legemidler i henhold til prinsippene for god produksjonspraksis ",
+                "nn": "framstille kremer, salver og flytende legemidler og dosere legemidler i henhold til prinsippene for god produksjonspraksis ",
+                "en": "framstille kremer, salver og flytende legemidler og dosere legemidler i henhold til prinsippene for god produksjonspraksis "
+              }
+            },
+            "programomraade": {
+              "kode": "HSAPO3----",
+              "url-data": "https://data.udir.no/kl06/v201906/programomraader/HSAPO3----",
+              "tittel": {
+                "nb": "Apotekteknikk",
+                "nn": "Apotekteknikk",
+                "en": "Pharmacy Skills"
+              },
+              "opplaeringssted": [
+                "http://psi.udir.no/kl06/opplaeringssted_skole"
+              ]
+            },
+            "arbeidsoppgaver": ""
+          },
+          {
+            "grep": {
+              "kode": "K3911",
+              "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K3911",
+              "tittel": {
+                "nb": "drøfte kjennetegn på profesjonell kundebehandling ",
+                "nn": "drøfte kjennetegn på profesjonell kundebehandling ",
+                "en": "drøfte kjennetegn på profesjonell kundebehandling "
+              }
+            },
+            "programomraade": {
+              "kode": "HSAPO3----",
+              "url-data": "https://data.udir.no/kl06/v201906/programomraader/HSAPO3----",
+              "tittel": {
+                "nb": "Apotekteknikk",
+                "nn": "Apotekteknikk",
+                "en": "Pharmacy Skills"
+              },
+              "opplaeringssted": [
+                "http://psi.udir.no/kl06/opplaeringssted_skole"
+              ]
+            },
+            "arbeidsoppgaver": ""
+          }
+        ]
+      },
+      {
+        "id": "8008-skogmovgs",
+        "name": "Skogmo videregående skole",
+        "maal": [
+          {
+            "grep": {
+              "kode": "K12308",
+              "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K12308",
+              "tittel": {
+                "nb": "iverksette tiltak som bidrar til å styrke barn og unges sosiale kompetanse ",
+                "nn": "iverksette tiltak som bidrar til å styrke barn og unges sosiale kompetanse ",
+                "en": "implement measures that strengthen social competence in children and adolescents "
+              }
+            },
+            "programomraade": {
+              "kode": "HSBUA3----",
+              "url-data": "https://data.udir.no/kl06/v201906/programomraader/HSBUA3----",
+              "tittel": {
+                "nb": "Barne- og ungdomsarbeiderfaget",
+                "nn": "Barne- og ungdomsarbeidarfaget",
+                "en": "Child Care and Youth Work"
+              },
+              "opplaeringssted": [
+                "http://psi.udir.no/kl06/opplaeringssted_bedrift"
+              ]
+            },
+            "arbeidsoppgaver": ""
+          },
+          {
+            "grep": {
+              "kode": "K12295",
+              "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K12295",
+              "tittel": {
+                "nb": "veilede barn og unge i påkledning som passer for den enkelte aktivitet, årstid og værforhold",
+                "nn": "veilede barn og unge i påkledning som passer for den enkelte aktivitet, årstid og værforhold",
+                "en": "instruct children and adolescents in getting dressed properly for the individual activity, the time of year and weather conditions"
+              }
+            },
+            "programomraade": {
+              "kode": "HSBUA3----",
+              "url-data": "https://data.udir.no/kl06/v201906/programomraader/HSBUA3----",
+              "tittel": {
+                "nb": "Barne- og ungdomsarbeiderfaget",
+                "nn": "Barne- og ungdomsarbeidarfaget",
+                "en": "Child Care and Youth Work"
+              },
+              "opplaeringssted": [
+                "http://psi.udir.no/kl06/opplaeringssted_bedrift"
+              ]
+            },
+            "arbeidsoppgaver": ""
+          },
+          {
+            "grep": {
+              "kode": "K12313",
+              "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K12313",
+              "tittel": {
+                "nb": "legge til rette for lek ut fra den betydningen lek har for barns læring, utvikling og sosialisering",
+                "nn": "legge til rette for lek ut fra den betydningen lek har for barns læring, utvikling og sosialisering",
+                "en": "arrange for play based on the meaning play has for child learning, development and socialisation"
+              }
+            },
+            "programomraade": {
+              "kode": "HSBUA3----",
+              "url-data": "https://data.udir.no/kl06/v201906/programomraader/HSBUA3----",
+              "tittel": {
+                "nb": "Barne- og ungdomsarbeiderfaget",
+                "nn": "Barne- og ungdomsarbeidarfaget",
+                "en": "Child Care and Youth Work"
+              },
+              "opplaeringssted": [
+                "http://psi.udir.no/kl06/opplaeringssted_bedrift"
+              ]
+            },
+            "arbeidsoppgaver": ""
+          },
+          {
+            "grep": {
+              "kode": "K12855",
+              "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K12855",
+              "tittel": {
+                "nb": "utføre hygienetiltak i tråd med gjeldande regelverk",
+                "nn": "utføre hygienetiltak i tråd med gjeldande regelverk",
+                "en": "perform hygiene in line with current rules"
+              }
+            },
+            "programomraade": {
+              "kode": "HSHSE3----",
+              "url-data": "https://data.udir.no/kl06/v201906/programomraader/HSHSE3----",
+              "tittel": {
+                "nb": "Helsesekretær",
+                "nn": "Helsesekretær",
+                "en": "Medical Secretarial Skills"
+              },
+              "opplaeringssted": [
+                "http://psi.udir.no/kl06/opplaeringssted_skole"
+              ]
+            },
+            "arbeidsoppgaver": ""
+          },
+          {
+            "grep": {
+              "kode": "K12872",
+              "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K12872",
+              "tittel": {
+                "nb": "utføre dei mest vanlege undersøkingsmetodane, laboratoriearbeid og skiftestue- og assistansearbeid",
+                "nn": "utføre dei mest vanlege undersøkingsmetodane, laboratoriearbeid og skiftestue- og assistansearbeid",
+                "en": "perform the most common examination methods, laboratory work and day surgery unit and assistance work"
+              }
+            },
+            "programomraade": {
+              "kode": "HSHSE3----",
+              "url-data": "https://data.udir.no/kl06/v201906/programomraader/HSHSE3----",
+              "tittel": {
+                "nb": "Helsesekretær",
+                "nn": "Helsesekretær",
+                "en": "Medical Secretarial Skills"
+              },
+              "opplaeringssted": [
+                "http://psi.udir.no/kl06/opplaeringssted_skole"
+              ]
+            },
+            "arbeidsoppgaver": ""
+          },
+          {
+            "grep": {
+              "kode": "K12867",
+              "url-data": "https://data.udir.no/kl06/v201906/kompetansemaal/K12867",
+              "tittel": {
+                "nb": "bruke medisinske ord og uttrykk",
+                "nn": "bruke medisinske ord og uttrykk",
+                "en": "use medical words and expressions"
+              }
+            },
+            "programomraade": {
+              "kode": "HSHSE3----",
+              "url-data": "https://data.udir.no/kl06/v201906/programomraader/HSHSE3----",
+              "tittel": {
+                "nb": "Helsesekretær",
+                "nn": "Helsesekretær",
+                "en": "Medical Secretarial Skills"
+              },
+              "opplaeringssted": [
+                "http://psi.udir.no/kl06/opplaeringssted_skole"
+              ]
+            },
+            "arbeidsoppgaver": ""
+          }
+        ]
+      }
+    ],
+    "year": "2020/2021"
+  },
+  "teacher": {
+    "username": "bjo21051",
+    "name": "Bjørg Simensen",
+    "firstName": "Bjørg",
+    "lastName": "Simensen",
+    "mobile": "undefined",
+    "mail": "bjorg.simensen@vtfk.no"
+  },
+  "school": {
+    "id": "SKOVS",
+    "name": "Skogmo videregående skole",
+    "shortName": "Skogmo vgs"
+  },
+  "isEncrypted": false,
+  "status": [
+    {
+      "status": "queued",
+      "timestamp": 1621507255257
+    }
+  ],
+  "isQueued": true,
+  "callbackUrl": "https://api.vtfk.no/minelev-queue/v1/status/60a63cb788135d2377eafbcc"
+}
