@@ -10,6 +10,7 @@
 - Setter opp dokumentet som skal genereres
 - Gjør oppslag mot krr (brukes ikke i noe særlig grad ennå...)
 - Gjør oppslag mot dsf
+- Dersom oppslag mot dsf finner kode 4, 6 eller 7 på personen fjernes adresse og foreldre fra dsf data
 - Setter opp dokument for eventuell distribusjon
 - Gjør oppslag mot sak/arkiv
 - Setter opp nødvendige dokumentmaler
