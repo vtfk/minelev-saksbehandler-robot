@@ -67,7 +67,7 @@
     "dotenv": "10.0.0",
     "get-age": "1.0.1",
     "get-skole-aar": "2.1.0",
-    "is-valid-fodselsnummer": "3.0.5",
+    "is-valid-fodselsnummer": "4.0.0",
     "jsonwebtoken": "8.5.1",
     "minelev-tilbakemelding-nynorsk": "1.0.2",
     "sanitize-filename": "1.6.3",
