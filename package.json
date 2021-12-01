@@ -60,7 +60,7 @@
     "@vtfk/logger": "3.0.1",
     "@vtfk/minelev-document-converter": "2.0.1",
     "@vtfk/p360": "1.1.5",
-    "axios": "0.23.0",
+    "axios": "0.24.0",
     "birthdate-from-id": "2.0.2",
     "capitalize": "2.0.4",
     "document-templates": "1.4.14",
