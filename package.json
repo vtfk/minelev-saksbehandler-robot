@@ -57,7 +57,7 @@
   "dependencies": {
     "@vtfk/elev-varsel-generate-document-title": "2.3.5",
     "@vtfk/encryption": "1.0.0",
-    "@vtfk/logger": "3.0.1",
+    "@vtfk/logger": "4.0.1",
     "@vtfk/minelev-document-converter": "2.0.2",
     "@vtfk/p360": "1.1.5",
     "axios": "0.24.0",

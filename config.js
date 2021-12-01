@@ -25,8 +25,7 @@ module.exports = {
   P360_DEFAULT_RESPONSIBLE_ENTERPRISE: process.env.P360_DEFAULT_RESPONSIBLE_ENTERPRISE || '506',
   P360_DEFAULT_ARCHIVE: process.env.P360_DEFAULT_ARCHIVE || 'Saksdokument',
   P360_DEFAULT_ARCHIVE_SECURE: process.env.P360_DEFAULT_ARCHIVE_SECURE || 'Personsensitivt dokument',
-  PAPERTRAIL_HOSTNAME: process.env.PAPERTRAIL_HOSTNAME || 'minelev-robot',
   PAPERTRAIL_HOST: process.env.PAPERTRAIL_HOST || 'logs.papertrailapp.com',
-  PAPERTRAIL_PORT: process.env.PAPERTRAIL_PORT || 12345,
+  PAPERTRAIL_TOKEN: process.env.PAPERTRAIL_TOKEN || undefined,
   ENCRYPTION_KEY: process.env.ENCRYPTION_KEY || 'Super secret secret'
 }
