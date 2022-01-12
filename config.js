@@ -1,7 +1,6 @@
 if (process.env.NODE_ENV !== 'production') {
   require('dotenv').config()
 }
-process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0'
 
 module.exports = {
   ARCIVE_DIRECTORY_PATH: process.env.ARCIVE_DIRECTORY_PATH || 'test/directories/archive',
