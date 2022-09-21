@@ -121,7 +121,8 @@
         "AARSNVN": "02",
         "FODKNR": "102",
         "FODK": "GRØNLAND",
-        "FODS": null
+        "FODS": null,
+        "FNR": "03088600230"
       },
       {
         "FODT": "020886",
@@ -189,7 +190,8 @@
         "AARSNVN": "02",
         "FODKNR": "105",
         "FODK": "ISLAND",
-        "FODS": null
+        "FODS": null,
+        "FNR": "02088600110"
       }
     ]
   }

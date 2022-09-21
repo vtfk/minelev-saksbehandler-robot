@@ -20,7 +20,9 @@
       "SPES":"VANLIG BOSATT",
       "FORAN-KD": "M",
       "MOR-INR": "12345678901",
-      "FAR-INR": "10987654321"
+      "FAR-INR": "10987654321",
+      "MOR-FODT": "090457",
+      "MOR-PERS": "54321"
     },
     "FOR":[
       {
@@ -43,7 +45,8 @@
         "KOMNA":"SKIEN",
         "ADRTYPE":"O",
         "SPES-KD":"0",
-        "SPES":"VANLIG BOSATT"
+        "SPES":"VANLIG BOSATT",
+        "FNR": "09045754321"
       },
       {
         "FODT":"230457",
@@ -65,7 +68,8 @@
         "KOMNA":"SKIEN",
         "ADRTYPE":"O",
         "SPES-KD":"0",
-        "SPES":"VANLIG BOSATT"
+        "SPES":"VANLIG BOSATT",
+        "FNR": "23045798765"
       }
     ]
   }
