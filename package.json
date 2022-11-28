@@ -1,7 +1,7 @@
 {
   "name": "minelev-saksbehandler-robot",
   "description": "Prepares documents for archive",
-  "version": "5.0.0",
+  "version": "5.1.0",
   "license": "MIT",
   "private": true,
   "author": {
