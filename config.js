@@ -26,5 +26,7 @@ module.exports = {
   P360_DEFAULT_ARCHIVE_SECURE: process.env.P360_DEFAULT_ARCHIVE_SECURE || 'Personsensitivt dokument',
   PAPERTRAIL_HOST: process.env.PAPERTRAIL_HOST || 'logs.papertrailapp.com',
   PAPERTRAIL_TOKEN: process.env.PAPERTRAIL_TOKEN || undefined,
-  ENCRYPTION_KEY: process.env.ENCRYPTION_KEY || 'Super secret secret'
+  ENCRYPTION_KEY: process.env.ENCRYPTION_KEY || 'Super secret secret',
+  SVARUT_EXCEPTION_ENABLED: process.env.SVARUT_EXCEPTION_ENABLED && process.env.SVARUT_EXCEPTION_ENABLED === 'true' || false,
+  SVARUT_EXCEPTION_LIST: process.env.SVARUT_EXCEPTION_LIST ? process.env.SVARUT_EXCEPTION_LIST.split(',') : []
 }
