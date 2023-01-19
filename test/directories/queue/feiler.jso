@@ -1,0 +1,98 @@
+{
+  "_id": "6394d2971f52b600326da56a_bekreftelse",
+  "created": {
+    "timestamp": 1670697623284,
+    "createdBy": "sof1304"
+  },
+  "modified": [
+    {
+      "timestamp": 1670697623284,
+      "modifiedBy": "sof1304"
+    }
+  ],
+  "type": "yff",
+  "variant": "bekreftelse-bedrift",
+  "student": {
+    "username": "inn0203",
+    "name": "Innocent Byiringiro",
+    "firstName": "Innocent",
+    "lastName": "Byiringiro",
+    "personalIdNumber": "02030277794",
+    "mobile": "+4798824765",
+    "mail": "inn0203@skole.vtfk.no",
+    "classId": "NOMV:1HSB",
+    "level": "VG1"
+  },
+  "content": {
+    "bekreftelse": {
+      "oppmotested": "Hovedinngang ",
+      "fraDato": "08.12.2022",
+      "tilDato": "17.02.2023",
+      "daysPerWeek": "2 dager (torsdag og fredag) Se egen plan",
+      "startTid": "08:00",
+      "sluttTid": "15:30",
+      "kopiPrEpost": [],
+      "kontaktpersonData": [
+        {
+          "navn": "Aslaug Langkås ",
+          "telefon": "479 78 882",
+          "epost": "",
+          "avdeling": ""
+        }
+      ],
+      "parorendeData": [
+        {
+          "navn": "X",
+          "telefon": "47857587 (kontaktlærer) "
+        }
+      ],
+      "bedriftsNavn": "MAURTUVA BARNEHAGE SA",
+      "bedriftsData": {
+        "organisasjonsNummer": "973549529",
+        "navn": "MAURTUVA BARNEHAGE SA",
+        "adresse": "",
+        "postnummer": "3800",
+        "poststed": "BØ I TELEMARK",
+        "avdeling": "Tusenbein "
+      }
+    },
+    "utdanningsprogram": {
+      "kode": "HS",
+      "type": "yrkesfaglig",
+      "tittel": {
+        "nb": "Helse- og oppvekstfag",
+        "nn": "Helse- og oppvekstfag",
+        "en": "Healthcare, Childhood and Youth Development"
+      },
+      "kortform": {
+        "nb": "Helse- og oppvekstfag",
+        "nn": "Helse- og oppvekstfag",
+        "en": "Healthcare, Chld. & Yth. Dev."
+      }
+    },
+    "level": "VG1",
+    "year": "2022/2023"
+  },
+  "teacher": {
+    "username": "sof1304",
+    "name": "Sofie Katrine Rønning Jensen",
+    "firstName": "Sofie Katrine Rønning",
+    "lastName": "Jensen",
+    "mobile": "47857587",
+    "mail": "sofie.jensen@vtfk.no"
+  },
+  "school": {
+    "id": "38010",
+    "name": "Nome videregående skole",
+    "shortName": "Nome vgs"
+  },
+  "isEncrypted": false,
+  "status": [
+    {
+      "status": "queued",
+      "timestamp": 1670697623288
+    }
+  ],
+  "isQueued": true,
+  "callbackUrl": "https://api.vtfk.no/minelev-queue/v1/status/6394d2971f52b600326da56a"
+}
